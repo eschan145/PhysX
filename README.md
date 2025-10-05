@@ -32,6 +32,8 @@ Welcome to the NVIDIA PhysX source code repository.
 
 This repository contains source releases of the PhysX, Flow, and Blast SDKs used in NVIDIA Omniverse.
 
+This repository also contains generated binaries built for win32.
+
 ## Documentation
 
 The user guide and API documentation are available on [GitHub Pages](https://nvidia-omniverse.github.io/PhysX). Please create an [Issue](https://github.com/NVIDIA-Omniverse/PhysX/issues/) if you find a documentation issue.
@@ -49,3 +51,4 @@ Please see [the O3DE Fork](https://github.com/o3de/PhysX) for community-maintain
 * Please use GitHub [Discussions](https://github.com/NVIDIA-Omniverse/PhysX/discussions/) for questions and comments.
 * GitHub [Issues](https://github.com/NVIDIA-Omniverse/PhysX/issues) should only be used for bug reports or documentation issues.
 * You can also ask questions in the NVIDIA Omniverse #physics [Discord Channel](https://discord.com/invite/XWQNJDNuaC).
+
